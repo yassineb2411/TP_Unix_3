@@ -237,7 +237,7 @@ for fichier in "$1"/*; do
         fi
     fi
 done
-
+```
 
 ---
 
